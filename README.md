@@ -1,5 +1,5 @@
 # GUIDE BOOK
-Please visit the web page through the following link[web_page]([链接地址](http://47.95.158.98:8530/))
+Please visit the web page through the following link [web_page](http://47.95.158.98:8530/)
 
 In this guide, we will briefly introduce the questions that testers need to answer and how to answer them when using the web page.
 
