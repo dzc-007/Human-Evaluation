@@ -34,7 +34,7 @@ As for Highlight button, if you find it difficult to read the text, clicking thi
 
 ![Hightlight](GUIDE_BOOK/highlight.png)
 
-### Example for reference
+'''### Example for reference
 We give a simple example to help users understand the entire process of answering multiple choice questions. Please note that this example is for reference only. Please answer the questions according to your own understanding of inspiration.
 
 When answering multiple-choice questions, we recommend that users follow the following answer order.
@@ -51,7 +51,7 @@ Secondly, this sentence means that the architecture is divided into multiple mod
 
 ![Step 2](GUIDE_BOOK/step_2.png)
 
-And so on, repeat the above two steps repeatedly until you have read all the sentences in Text A.
+And so on, repeat the above two steps repeatedly until you have read all the sentences in Text A.'''
 
 ## Scoring Question
 ### Question Setting
